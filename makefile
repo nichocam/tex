@@ -1,6 +1,6 @@
 # this is a comment
 
-TARGET=problem statement
+TARGET=problem_statement
 HTML=main_html
 
 default: pdf 
